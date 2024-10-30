@@ -42,7 +42,7 @@ To run this project locally, the following tools must be installed:
 
 1. Download or clone this repository:
    ```bash
-   
+   https://github.com/Alruwaymi/Project-of-CS346
 
 2. Install the required dependencies:
    ```bash
