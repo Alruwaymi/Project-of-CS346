@@ -42,7 +42,7 @@ To run this project locally, the following tools must be installed:
 
 1. Download or clone this repository:
    ```bash
-   git clone ضع هنا رابط الريبو الذي قمت برفعه على الغيت هاب
+   
 
 2. Install the required dependencies:
    ```bash
